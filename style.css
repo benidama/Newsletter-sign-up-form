@@ -38,7 +38,7 @@ p {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  margin-top: 45px;
+  margin-top: 34px;
 }
 
 .instruction {
@@ -52,19 +52,20 @@ p {
   flex-direction: column;
   gap: 10px;
   margin-bottom: 20px;
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 #email {
   padding-left: 20px;
   background-color: hsl(0, 0%, 100%);
+  border: solid rgb(235, 231, 231) 2px;
 }
 
 .button {
   background-color: hsl(235, 18%, 26%);
-  height: 40px;
+  height: 55px;
   width: 360px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .link-item {
